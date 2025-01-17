@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetch-dog-adoption/static/css/main.705091b1.css",
+    "main.js": "/fetch-dog-adoption/static/js/main.f7e1eac8.js",
+    "index.html": "/fetch-dog-adoption/index.html",
+    "main.705091b1.css.map": "/fetch-dog-adoption/static/css/main.705091b1.css.map",
+    "main.f7e1eac8.js.map": "/fetch-dog-adoption/static/js/main.f7e1eac8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.705091b1.css",
+    "static/js/main.f7e1eac8.js"
+  ]
+}
